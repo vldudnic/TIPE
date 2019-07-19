@@ -1,0 +1,37 @@
+﻿  Voiture.cpp
+c:\users\paul\documents\programmation\sfml\tipe\map interactive\voiture_prototypes.h(4): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  Neurones.cpp
+c:\users\paul\documents\programmation\sfml\tipe\map interactive\neurones.cpp(10): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\paul\documents\programmation\sfml\tipe\map interactive\neurones.cpp(16): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\paul\documents\programmation\sfml\tipe\map interactive\neurones.cpp(40): warning C4018: '<=' : incompatibilité signed/unsigned
+c:\users\paul\documents\programmation\sfml\tipe\map interactive\neurones.cpp(44): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\paul\documents\programmation\sfml\tipe\map interactive\neurones.cpp(72): warning C4018: '<' : incompatibilité signed/unsigned
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\random(3790): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\random(3725): note: voir la référence à l'instanciation de la fonction modèle 'float std::normal_distribution<float>::_Eval<_Engine>(_Engine &,const std::normal_distribution<float>::param_type &,bool)' en cours de compilation
+          with
+          [
+              _Engine=std::default_random_engine
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\random(3725): note: voir la référence à l'instanciation de la fonction modèle 'float std::normal_distribution<float>::_Eval<_Engine>(_Engine &,const std::normal_distribution<float>::param_type &,bool)' en cours de compilation
+          with
+          [
+              _Engine=std::default_random_engine
+          ]
+  c:\users\paul\documents\programmation\sfml\tipe\map interactive\neurones.cpp(81): note: voir la référence à l'instanciation de la fonction modèle 'float std::normal_distribution<float>::operator ()<std::default_random_engine>(_Engine &)' en cours de compilation
+          with
+          [
+              _Engine=std::default_random_engine
+          ]
+  c:\users\paul\documents\programmation\sfml\tipe\map interactive\neurones.cpp(81): note: voir la référence à l'instanciation de la fonction modèle 'float std::normal_distribution<float>::operator ()<std::default_random_engine>(_Engine &)' en cours de compilation
+          with
+          [
+              _Engine=std::default_random_engine
+          ]
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\random(3793): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  Matrices.cpp
+  main.cpp
+c:\users\paul\documents\programmation\sfml\tipe\map interactive\voiture_prototypes.h(4): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  Génération de code en cours...
+c:\users\paul\documents\programmation\sfml\tipe\map interactive\matrices.cpp(63): warning C4715: 'Matrice::additionne' : les chemins de contrôle ne retournent pas tous une valeur
+c:\users\paul\documents\programmation\sfml\tipe\map interactive\matrices.cpp(86): warning C4715: 'Matrice::multiplie' : les chemins de contrôle ne retournent pas tous une valeur
+c:\users\paul\documents\programmation\sfml\tipe\map interactive\neurones.cpp(57): warning C4715: 'ReseauNeurones::reponseStimuli' : les chemins de contrôle ne retournent pas tous une valeur
