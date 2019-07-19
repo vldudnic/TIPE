@@ -5,3 +5,4 @@
  Executable: dossier x64/Debug ou x64/Release, fichier "Map Interactive.exe"
 
 /!\ Il n'y a pas de gestion d'événements dans la fenetre graphique, pour arreter le programme, il faut fermer la console.
+blabla
